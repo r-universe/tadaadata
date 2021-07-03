@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tadaadata/universe
 	shallow = true
 	branch = HEAD
+[submodule "tadaathemes"]
+	path = tadaathemes
+	url = https://github.com/tadaadata/tadaathemes
+	shallow = true
+	registered = true
